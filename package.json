@@ -1,0 +1,10 @@
+
+{
+ "name":"travel-system",
+ "dependencies":{
+  "express":"^4",
+  "mongoose":"^7",
+  "cors":"^2",
+  "bcrypt":"^5"
+ }
+}
